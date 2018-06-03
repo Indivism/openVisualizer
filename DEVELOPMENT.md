@@ -13,6 +13,8 @@
 
 - [x] __Particle Visualization Mode__ (Completed 5/2/18)
 
+- [x] __Bloom Visualization Mode__ (Completed 5/30/18)
+
 - [x] __GUI Migration to ofxDatGui__ (Completed 4/27/18)
 
 - [x] __Additional GUI Functionality__ (Completed 5/2/18)
