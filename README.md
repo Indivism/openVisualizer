@@ -18,7 +18,7 @@ Additional features of openVisualizer include adjusting visualizer sensitivity, 
 ### __User Guide__
 * Import a song (MP3 files only) using the GUI interface.
 
-* Press '1' to play the song, '2' to pause/play the song, and '3', '4', '5', or '6' to switch visualization modes.
+* Press '1' to play the song, '2' to pause/play the song, and '3', '4', '5', '6', or '7' to switch visualization modes.
 
 * To exit the program, press 'Esc'.
 
